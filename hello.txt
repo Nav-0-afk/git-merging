@@ -1,2 +1,2 @@
 Hello Github!
-feature1
+feature2
